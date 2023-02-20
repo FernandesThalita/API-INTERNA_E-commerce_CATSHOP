@@ -1,0 +1,22 @@
+{
+    "produto1": {
+        "nome": "BackPack para Gatos - VERDE",
+        "preco": "R$ 29,95",
+        "imagem": "<img src='img/mochila.jpeg' width='100px'>"
+    },
+   
+
+
+    "produto2": {
+    "nome": "Collet Set para Gatos",
+    "preco": "R$ 205,90",
+    "imagem": "<img src='img/coleira.jpg' width='100px'>"
+    },
+
+
+    "produto3": {
+    "nome": "Colar Personalizado-Gatos",
+    "preco": "R$ 39,90",
+    "imagem": "<img src='img/collar.jpeg' width='100px'>"
+    }
+}
