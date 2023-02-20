@@ -1,5 +1,5 @@
 //metodo fetch(), buscar arquivo dados.json, ou qualquer API externa, transformando o resultado em um objeto, usando outro metodo reponse.json
-fetch('js/dados.json').then(response => response.json())
+fetch('dados.json').then(response => response.json())
     .then(corpo => {
         document.getElementById('imagem').innerHTML = corpo.produto1.imagem
         document.getElementById('nome').innerHTML = corpo.produto1.nome
